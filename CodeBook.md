@@ -8,7 +8,7 @@ The objective of the assignment was to prepare a tidy data set given several pei
 The assignment's first  and second task was to merge the Training and Test files into one data file and only on variables with mean and std deviation on each measurement
 
 ## Information on variables
-The statistics were performed on signals caprtured by the accelerometer and gyroscope. The signals were used to estimate variables of the featire vector for each pattern. Here are the patterns:
+The statistics were performed on signals captured by the accelerometer and gyroscope. The signals were used to estimate variables of the feature vector for each pattern. Here are the patterns:
 
 The prefix 't' denotes time and 'f' denotes frequency
 Acc - Accelerometer
